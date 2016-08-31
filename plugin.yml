@@ -1,0 +1,8 @@
+name: FloatingStatus
+main: FloatingStatus\MainClass
+version: "1.0"
+api: [2.0.0]
+
+author: seetch
+description:  Server Status in FloatingText!
+website: https://github.com/seetch/FloatingStatus
